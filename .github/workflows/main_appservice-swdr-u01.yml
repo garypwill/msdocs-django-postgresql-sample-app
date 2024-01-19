@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'appservice-swdr-u01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_109F80E147F04F83986AA01834D29470 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_190D550BA8C44A798EE2D6DFACC5E03D }}
